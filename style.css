@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    background: linear-gradient(#ff00fb 0%, #09ff00 100%)
+}
+
+#sivan {
+    width: 250px;
+    height: 200px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+    cursor: pointer;
+    background-color: #fca1ff;
+    width: 100%;
+}
+
+.LIST {
+    color: black;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: sans-serif;
+    font-size: 20px;
+    display: inline;
+}
